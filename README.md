@@ -3,9 +3,14 @@ This website is a static landing page, it has been created with help of Google A
 
 ### view site
 [https://amardeepkesharwani.github.io/healthcare](https://amardeepkesharwani.github.io/healthcare)
+
+![alt text](https://amardeepkesharwani.github.io/Dynasty-Theme/img/healthcare.jpg)
+
 ---
 
 ## Google AMP
+
+![apm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Accelerated_Mobile_Pages_logo.svg/512px-Accelerated_Mobile_Pages_logo.svg.png)
 
 ### What is AMP?
 AMP is a simple and robust format to ensure your website is fast, user-first, and makes money. AMP provides long-term success for your web strategy with distribution across popular platforms and reduced operating and development costs.
@@ -22,7 +27,6 @@ AMP enables the creation of websites and ads that are consistently fast, beautif
 
 * AMP pages are discovered by search engines and other platforms through the HTML tag. You can choose to have a non-AMP version and an AMP version of your page, or just an AMP version.
 
-![google amp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazeemetrics.com%2Fen%2Fblog%2Fhow-to-track-amp-pages-in-google-analytics-with-google-tag-manager%2F&psig=AOvVaw1rrr0PFxN8MN31kT_MboaV&ust=1620150109093000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCrzd-HrvACFQAAAAAdAAAAABAD)
 
 ### Google AMP offcial site 
 [https://amp.dev/](https://amp.dev/)
